@@ -1,1 +1,0 @@
-# osticket: Ticket-Lifecycle-Example
