@@ -83,13 +83,25 @@ As a Help Desk Agent, I review each ticket’s properties, including priority, d
 
 <h2>Working the Issue</h2>
 
+Online Banking Ticket
+<p>
+<img width="400" alt="Banking ticket message thread update" src="https://github.com/user-attachments/assets/58c91a49-6d16-4721-abce-5f99af0a2e76" />
+<img width="400" alt="Banking ticket post reply" src="https://github.com/user-attachments/assets/b6bcf9ce-7786-4732-b1b7-7eb058ba8458" />
+<img width="400" alt="Banking ticket post reply 2" src="https://github.com/user-attachments/assets/60397a7a-e500-4240-b0fc-eb11cb1bb3cf" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adobe Ticket
+
+<img width="400" alt="Adobe ticket post thread 2" src="https://github.com/user-attachments/assets/35c7a32f-e06c-4c15-855e-ab09c50dd5b3" />
+<img width="400" alt="Adobe ticket post thread 3" src="https://github.com/user-attachments/assets/41b247e7-039c-4e87-9455-350ac056fab4" />
+
+CFO Ticket
+
+<img width="550" alt="CFO ticket thread post" src="https://github.com/user-attachments/assets/0759b970-fbad-4392-b843-bbfa4dca253e" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+After assigning the tickets, I work on resolving the issues. For example, I troubleshoot and resolve the reported problems, document updates in the ticket, and communicate progress with the end-user to keep them informed.</p>
 <br />
 
 <h2>Resolution</h2>
